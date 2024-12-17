@@ -28,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ramsi97/Leetcode-problem/tree/master/0209-minimum-size-subarray-sum) |
+## String
+|  |
+| ------- |
+| [0886-score-of-parentheses](https://github.com/Ramsi97/Leetcode-problem/tree/master/0886-score-of-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0886-score-of-parentheses](https://github.com/Ramsi97/Leetcode-problem/tree/master/0886-score-of-parentheses) |
 <!---LeetCode Topics End-->
