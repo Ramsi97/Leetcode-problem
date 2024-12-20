@@ -50,20 +50,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Ramsi97/Leetcode-problem/tree/master/0100-same-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ramsi97/Leetcode-problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ramsi97/Leetcode-problem/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ramsi97/Leetcode-problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ramsi97/Leetcode-problem/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Ramsi97/Leetcode-problem/tree/master/0100-same-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ramsi97/Leetcode-problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ramsi97/Leetcode-problem/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Ramsi97/Leetcode-problem/tree/master/0100-same-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ramsi97/Leetcode-problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
