@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Ramsi97/Leetcode-problem/tree/master/0146-lru-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/Ramsi97/Leetcode-problem/tree/master/0560-subarray-sum-equals-k) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Ramsi97/Leetcode-problem/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Prefix Sum
@@ -79,5 +80,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Ramsi97/Leetcode-problem/tree/master/0146-lru-cache) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ramsi97/Leetcode-problem/tree/master/0237-delete-node-in-a-linked-list) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Ramsi97/Leetcode-problem/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Ramsi97/Leetcode-problem/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
