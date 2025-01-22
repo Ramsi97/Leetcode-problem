@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Ramsi97/Leetcode-problem/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ramsi97/Leetcode-problem/tree/master/0055-jump-game) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ramsi97/Leetcode-problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ramsi97/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -113,11 +114,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Ramsi97/Leetcode-problem/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ramsi97/Leetcode-problem/tree/master/0055-jump-game) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Ramsi97/Leetcode-problem/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Ramsi97/Leetcode-problem/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ramsi97/Leetcode-problem/tree/master/0055-jump-game) |
 ## Two Pointers
 |  |
