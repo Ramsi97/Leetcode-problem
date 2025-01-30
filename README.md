@@ -134,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ramsi97/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Ramsi97/Leetcode-problem/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
