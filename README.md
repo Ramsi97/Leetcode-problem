@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ramsi97/Leetcode-problem/tree/master/0014-longest-common-prefix) |
 | [0886-score-of-parentheses](https://github.com/Ramsi97/Leetcode-problem/tree/master/0886-score-of-parentheses) |
 | [1044-find-common-characters](https://github.com/Ramsi97/Leetcode-problem/tree/master/1044-find-common-characters) |
 ## Stack
@@ -138,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Ramsi97/Leetcode-problem/tree/master/0009-palindrome-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Ramsi97/Leetcode-problem/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
