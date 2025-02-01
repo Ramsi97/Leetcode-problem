@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Ramsi97/Leetcode-problem/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Ramsi97/Leetcode-problem/tree/master/0013-roman-to-integer) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Ramsi97/Leetcode-problem/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2645-pass-the-pillow](https://github.com/Ramsi97/Leetcode-problem/tree/master/2645-pass-the-pillow) |
 ## Trie
 |  |
 | ------- |
@@ -157,5 +158,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ramsi97/Leetcode-problem/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Ramsi97/Leetcode-problem/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2645-pass-the-pillow](https://github.com/Ramsi97/Leetcode-problem/tree/master/2645-pass-the-pillow) |
 | [3651-transformed-array](https://github.com/Ramsi97/Leetcode-problem/tree/master/3651-transformed-array) |
 <!---LeetCode Topics End-->
