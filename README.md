@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Ramsi97/Leetcode-problem/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Ramsi97/Leetcode-problem/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Ramsi97/Leetcode-problem/tree/master/0058-length-of-last-word) |
+| [0858-masking-personal-information](https://github.com/Ramsi97/Leetcode-problem/tree/master/0858-masking-personal-information) |
 | [0886-score-of-parentheses](https://github.com/Ramsi97/Leetcode-problem/tree/master/0886-score-of-parentheses) |
 | [1044-find-common-characters](https://github.com/Ramsi97/Leetcode-problem/tree/master/1044-find-common-characters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ramsi97/Leetcode-problem/tree/master/1146-greatest-common-divisor-of-strings) |
