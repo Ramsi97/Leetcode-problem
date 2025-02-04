@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Ramsi97/Leetcode-problem/tree/master/0560-subarray-sum-equals-k) |
 | [1044-find-common-characters](https://github.com/Ramsi97/Leetcode-problem/tree/master/1044-find-common-characters) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Ramsi97/Leetcode-problem/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [2778-frequency-tracker](https://github.com/Ramsi97/Leetcode-problem/tree/master/2778-frequency-tracker) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Ramsi97/Leetcode-problem/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Prefix Sum
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Ramsi97/Leetcode-problem/tree/master/0146-lru-cache) |
+| [2778-frequency-tracker](https://github.com/Ramsi97/Leetcode-problem/tree/master/2778-frequency-tracker) |
 ## Doubly-Linked List
 |  |
 | ------- |
