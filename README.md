@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Ramsi97/Leetcode-problem/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Ramsi97/Leetcode-problem/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ramsi97/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Ramsi97/Leetcode-problem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ramsi97/Leetcode-problem/tree/master/0560-subarray-sum-equals-k) |
 | [0883-car-fleet](https://github.com/Ramsi97/Leetcode-problem/tree/master/0883-car-fleet) |
 | [1044-find-common-characters](https://github.com/Ramsi97/Leetcode-problem/tree/master/1044-find-common-characters) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ramsi97/Leetcode-problem/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ramsi97/Leetcode-problem/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ramsi97/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Ramsi97/Leetcode-problem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ramsi97/Leetcode-problem/tree/master/0560-subarray-sum-equals-k) |
 | [1044-find-common-characters](https://github.com/Ramsi97/Leetcode-problem/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Ramsi97/Leetcode-problem/tree/master/1112-find-words-that-can-be-formed-by-characters) |
