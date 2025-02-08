@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Ramsi97/Leetcode-problem/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Ramsi97/Leetcode-problem/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Ramsi97/Leetcode-problem/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Ramsi97/Leetcode-problem/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Ramsi97/Leetcode-problem/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Ramsi97/Leetcode-problem/tree/master/0242-valid-anagram) |
 | [0858-masking-personal-information](https://github.com/Ramsi97/Leetcode-problem/tree/master/0858-masking-personal-information) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Ramsi97/Leetcode-problem/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Ramsi97/Leetcode-problem/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ramsi97/Leetcode-problem/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/Ramsi97/Leetcode-problem/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Ramsi97/Leetcode-problem/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/Ramsi97/Leetcode-problem/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ramsi97/Leetcode-problem/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ramsi97/Leetcode-problem/tree/master/0067-add-binary) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ramsi97/Leetcode-problem/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ramsi97/Leetcode-problem/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Ramsi97/Leetcode-problem/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ramsi97/Leetcode-problem/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Ramsi97/Leetcode-problem/tree/master/0268-missing-number) |
 ## Counting
 |  |
