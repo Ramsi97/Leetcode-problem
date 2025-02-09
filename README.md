@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Ramsi97/Leetcode-problem/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/Ramsi97/Leetcode-problem/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Ramsi97/Leetcode-problem/tree/master/0055-jump-game) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ramsi97/Leetcode-problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/Ramsi97/Leetcode-problem/tree/master/0228-summary-ranges) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Ramsi97/Leetcode-problem/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Ramsi97/Leetcode-problem/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ramsi97/Leetcode-problem/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Ramsi97/Leetcode-problem/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Ramsi97/Leetcode-problem/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Ramsi97/Leetcode-problem/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/Ramsi97/Leetcode-problem/tree/master/0268-missing-number) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ramsi97/Leetcode-problem/tree/master/0048-rotate-image) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ramsi97/Leetcode-problem/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Bit Manipulation
 |  |
