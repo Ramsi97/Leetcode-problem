@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-goal-parser-interpretation](https://github.com/Ramsi97/Leetcode-problem/tree/master/1797-goal-parser-interpretation) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ramsi97/Leetcode-problem/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1970-sorting-the-sentence](https://github.com/Ramsi97/Leetcode-problem/tree/master/1970-sorting-the-sentence) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Ramsi97/Leetcode-problem/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ramsi97/Leetcode-problem/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2365-percentage-of-letter-in-string](https://github.com/Ramsi97/Leetcode-problem/tree/master/2365-percentage-of-letter-in-string) |
 | [2502-sort-the-people](https://github.com/Ramsi97/Leetcode-problem/tree/master/2502-sort-the-people) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/Ramsi97/Leetcode-problem/tree/master/0883-car-fleet) |
 | [0886-score-of-parentheses](https://github.com/Ramsi97/Leetcode-problem/tree/master/0886-score-of-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Ramsi97/Leetcode-problem/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Ramsi97/Leetcode-problem/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Sorting
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ramsi97/Leetcode-problem/tree/master/0067-add-binary) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Ramsi97/Leetcode-problem/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ramsi97/Leetcode-problem/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ramsi97/Leetcode-problem/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Ramsi97/Leetcode-problem/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
