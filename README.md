@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ramsi97/Leetcode-problem/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ramsi97/Leetcode-problem/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Ramsi97/Leetcode-problem/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ramsi97/Leetcode-problem/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/Ramsi97/Leetcode-problem/tree/master/2502-sort-the-people) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Ramsi97/Leetcode-problem/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2756-buy-two-chocolates](https://github.com/Ramsi97/Leetcode-problem/tree/master/2756-buy-two-chocolates) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Ramsi97/Leetcode-problem/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ramsi97/Leetcode-problem/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Ramsi97/Leetcode-problem/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ramsi97/Leetcode-problem/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/Ramsi97/Leetcode-problem/tree/master/2502-sort-the-people) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Ramsi97/Leetcode-problem/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2778-frequency-tracker](https://github.com/Ramsi97/Leetcode-problem/tree/master/2778-frequency-tracker) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Ramsi97/Leetcode-problem/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/Ramsi97/Leetcode-problem/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1970-sorting-the-sentence](https://github.com/Ramsi97/Leetcode-problem/tree/master/1970-sorting-the-sentence) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ramsi97/Leetcode-problem/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/Ramsi97/Leetcode-problem/tree/master/2502-sort-the-people) |
 | [2756-buy-two-chocolates](https://github.com/Ramsi97/Leetcode-problem/tree/master/2756-buy-two-chocolates) |
 ## Monotonic Stack
@@ -238,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ramsi97/Leetcode-problem/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Ramsi97/Leetcode-problem/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Ramsi97/Leetcode-problem/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ramsi97/Leetcode-problem/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 <!---LeetCode Topics End-->
