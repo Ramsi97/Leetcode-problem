@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ramsi97/Leetcode-problem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ramsi97/Leetcode-problem/tree/master/0560-subarray-sum-equals-k) |
 | [0883-car-fleet](https://github.com/Ramsi97/Leetcode-problem/tree/master/0883-car-fleet) |
+| [0917-boats-to-save-people](https://github.com/Ramsi97/Leetcode-problem/tree/master/0917-boats-to-save-people) |
 | [1044-find-common-characters](https://github.com/Ramsi97/Leetcode-problem/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Ramsi97/Leetcode-problem/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Ramsi97/Leetcode-problem/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ramsi97/Leetcode-problem/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ramsi97/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0883-car-fleet](https://github.com/Ramsi97/Leetcode-problem/tree/master/0883-car-fleet) |
+| [0917-boats-to-save-people](https://github.com/Ramsi97/Leetcode-problem/tree/master/0917-boats-to-save-people) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Ramsi97/Leetcode-problem/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/Ramsi97/Leetcode-problem/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1970-sorting-the-sentence](https://github.com/Ramsi97/Leetcode-problem/tree/master/1970-sorting-the-sentence) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Ramsi97/Leetcode-problem/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ramsi97/Leetcode-problem/tree/master/0055-jump-game) |
+| [0917-boats-to-save-people](https://github.com/Ramsi97/Leetcode-problem/tree/master/0917-boats-to-save-people) |
 | [2756-buy-two-chocolates](https://github.com/Ramsi97/Leetcode-problem/tree/master/2756-buy-two-chocolates) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Ramsi97/Leetcode-problem/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## Two Pointers
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Ramsi97/Leetcode-problem/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ramsi97/Leetcode-problem/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ramsi97/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0917-boats-to-save-people](https://github.com/Ramsi97/Leetcode-problem/tree/master/0917-boats-to-save-people) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Ramsi97/Leetcode-problem/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 ## Math
 |  |
