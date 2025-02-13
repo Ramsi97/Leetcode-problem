@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Ramsi97/Leetcode-problem/tree/master/0016-3sum-closest) |
 | [0045-jump-game-ii](https://github.com/Ramsi97/Leetcode-problem/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Ramsi97/Leetcode-problem/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Ramsi97/Leetcode-problem/tree/master/0055-jump-game) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Ramsi97/Leetcode-problem/tree/master/0016-3sum-closest) |
 | [0242-valid-anagram](https://github.com/Ramsi97/Leetcode-problem/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ramsi97/Leetcode-problem/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ramsi97/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Ramsi97/Leetcode-problem/tree/master/0016-3sum-closest) |
 | [0189-rotate-array](https://github.com/Ramsi97/Leetcode-problem/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ramsi97/Leetcode-problem/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ramsi97/Leetcode-problem/tree/master/0345-reverse-vowels-of-a-string) |
