@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ramsi97/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ramsi97/Leetcode-problem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ramsi97/Leetcode-problem/tree/master/0560-subarray-sum-equals-k) |
+| [0768-partition-labels](https://github.com/Ramsi97/Leetcode-problem/tree/master/0768-partition-labels) |
 | [1044-find-common-characters](https://github.com/Ramsi97/Leetcode-problem/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Ramsi97/Leetcode-problem/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Ramsi97/Leetcode-problem/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Ramsi97/Leetcode-problem/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Ramsi97/Leetcode-problem/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ramsi97/Leetcode-problem/tree/master/0345-reverse-vowels-of-a-string) |
+| [0768-partition-labels](https://github.com/Ramsi97/Leetcode-problem/tree/master/0768-partition-labels) |
 | [0858-masking-personal-information](https://github.com/Ramsi97/Leetcode-problem/tree/master/0858-masking-personal-information) |
 | [0886-score-of-parentheses](https://github.com/Ramsi97/Leetcode-problem/tree/master/0886-score-of-parentheses) |
 | [1044-find-common-characters](https://github.com/Ramsi97/Leetcode-problem/tree/master/1044-find-common-characters) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Ramsi97/Leetcode-problem/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ramsi97/Leetcode-problem/tree/master/0055-jump-game) |
+| [0768-partition-labels](https://github.com/Ramsi97/Leetcode-problem/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/Ramsi97/Leetcode-problem/tree/master/0917-boats-to-save-people) |
 | [2756-buy-two-chocolates](https://github.com/Ramsi97/Leetcode-problem/tree/master/2756-buy-two-chocolates) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Ramsi97/Leetcode-problem/tree/master/2767-maximum-sum-with-exactly-k-elements) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Ramsi97/Leetcode-problem/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ramsi97/Leetcode-problem/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ramsi97/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0768-partition-labels](https://github.com/Ramsi97/Leetcode-problem/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/Ramsi97/Leetcode-problem/tree/master/0917-boats-to-save-people) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Ramsi97/Leetcode-problem/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 ## Math
