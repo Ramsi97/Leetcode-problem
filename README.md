@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Ramsi97/Leetcode-problem/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ramsi97/Leetcode-problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0940-fruit-into-baskets](https://github.com/Ramsi97/Leetcode-problem/tree/master/0940-fruit-into-baskets) |
+| [1351-replace-the-substring-for-balanced-string](https://github.com/Ramsi97/Leetcode-problem/tree/master/1351-replace-the-substring-for-balanced-string) |
 ## String
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Ramsi97/Leetcode-problem/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Ramsi97/Leetcode-problem/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ramsi97/Leetcode-problem/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1351-replace-the-substring-for-balanced-string](https://github.com/Ramsi97/Leetcode-problem/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/Ramsi97/Leetcode-problem/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ramsi97/Leetcode-problem/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/Ramsi97/Leetcode-problem/tree/master/1797-goal-parser-interpretation) |
