@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Ramsi97/Leetcode-problem/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Ramsi97/Leetcode-problem/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Ramsi97/Leetcode-problem/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Ramsi97/Leetcode-problem/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Ramsi97/Leetcode-problem/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Ramsi97/Leetcode-problem/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ramsi97/Leetcode-problem/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ramsi97/Leetcode-problem/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/Ramsi97/Leetcode-problem/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ramsi97/Leetcode-problem/tree/master/0268-missing-number) |
 ## Counting
 |  |
@@ -280,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Ramsi97/Leetcode-problem/tree/master/0258-add-digits) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Ramsi97/Leetcode-problem/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
