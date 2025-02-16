@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Ramsi97/Leetcode-problem/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Ramsi97/Leetcode-problem/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Ramsi97/Leetcode-problem/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/Ramsi97/Leetcode-problem/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Ramsi97/Leetcode-problem/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ramsi97/Leetcode-problem/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Ramsi97/Leetcode-problem/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ramsi97/Leetcode-problem/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Ramsi97/Leetcode-problem/tree/master/0258-add-digits) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ramsi97/Leetcode-problem/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ramsi97/Leetcode-problem/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ramsi97/Leetcode-problem/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -274,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ramsi97/Leetcode-problem/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Ramsi97/Leetcode-problem/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
