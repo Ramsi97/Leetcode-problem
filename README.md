@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Ramsi97/Leetcode-problem/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Ramsi97/Leetcode-problem/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ramsi97/Leetcode-problem/tree/master/0283-move-zeroes) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Ramsi97/Leetcode-problem/tree/master/0304-range-sum-query-2d-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ramsi97/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ramsi97/Leetcode-problem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ramsi97/Leetcode-problem/tree/master/0560-subarray-sum-equals-k) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ramsi97/Leetcode-problem/tree/master/0209-minimum-size-subarray-sum) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Ramsi97/Leetcode-problem/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Ramsi97/Leetcode-problem/tree/master/0560-subarray-sum-equals-k) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Ramsi97/Leetcode-problem/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Binary Search
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Ramsi97/Leetcode-problem/tree/master/0146-lru-cache) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Ramsi97/Leetcode-problem/tree/master/0304-range-sum-query-2d-immutable) |
 | [2778-frequency-tracker](https://github.com/Ramsi97/Leetcode-problem/tree/master/2778-frequency-tracker) |
 ## Doubly-Linked List
 |  |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Ramsi97/Leetcode-problem/tree/master/0048-rotate-image) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Ramsi97/Leetcode-problem/tree/master/0304-range-sum-query-2d-immutable) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ramsi97/Leetcode-problem/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Ramsi97/Leetcode-problem/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Bit Manipulation
