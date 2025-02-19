@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Ramsi97/Leetcode-problem/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0146-lru-cache](https://github.com/Ramsi97/Leetcode-problem/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/Ramsi97/Leetcode-problem/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ramsi97/Leetcode-problem/tree/master/0237-delete-node-in-a-linked-list) |
