@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Ramsi97/Leetcode-problem/tree/master/0146-lru-cache) |
+| [0203-remove-linked-list-elements](https://github.com/Ramsi97/Leetcode-problem/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ramsi97/Leetcode-problem/tree/master/0237-delete-node-in-a-linked-list) |
 ## Design
 |  |
@@ -291,5 +292,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Ramsi97/Leetcode-problem/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Ramsi97/Leetcode-problem/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
