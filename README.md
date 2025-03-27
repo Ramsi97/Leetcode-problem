@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Ramsi97/Leetcode-problem/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Ramsi97/Leetcode-problem/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2645-pass-the-pillow](https://github.com/Ramsi97/Leetcode-problem/tree/master/2645-pass-the-pillow) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Ramsi97/Leetcode-problem/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3321-type-of-triangle](https://github.com/Ramsi97/Leetcode-problem/tree/master/3321-type-of-triangle) |
 ## Trie
 |  |
@@ -351,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3799-unique-3-digit-even-numbers](https://github.com/Ramsi97/Leetcode-problem/tree/master/3799-unique-3-digit-even-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Ramsi97/Leetcode-problem/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
