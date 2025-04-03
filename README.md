@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Ramsi97/Leetcode-problem/tree/master/0016-3sum-closest) |
+| [0148-sort-list](https://github.com/Ramsi97/Leetcode-problem/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Ramsi97/Leetcode-problem/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ramsi97/Leetcode-problem/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ramsi97/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Ramsi97/Leetcode-problem/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0146-lru-cache](https://github.com/Ramsi97/Leetcode-problem/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/Ramsi97/Leetcode-problem/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Ramsi97/Leetcode-problem/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ramsi97/Leetcode-problem/tree/master/0237-delete-node-in-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Ramsi97/Leetcode-problem/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Ramsi97/Leetcode-problem/tree/master/0016-3sum-closest) |
+| [0148-sort-list](https://github.com/Ramsi97/Leetcode-problem/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/Ramsi97/Leetcode-problem/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ramsi97/Leetcode-problem/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ramsi97/Leetcode-problem/tree/master/0345-reverse-vowels-of-a-string) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ramsi97/Leetcode-problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Ramsi97/Leetcode-problem/tree/master/0148-sort-list) |
 ## Enumeration
 |  |
 | ------- |
@@ -360,4 +364,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Ramsi97/Leetcode-problem/tree/master/2802-find-the-punishment-number-of-an-integer) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Ramsi97/Leetcode-problem/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
