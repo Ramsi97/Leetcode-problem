@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Ramsi97/Leetcode-problem/tree/master/0100-same-tree) |
 | [0207-course-schedule](https://github.com/Ramsi97/Leetcode-problem/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Ramsi97/Leetcode-problem/tree/master/0226-invert-binary-tree) |
+| [1229-shortest-path-with-alternating-colors](https://github.com/Ramsi97/Leetcode-problem/tree/master/1229-shortest-path-with-alternating-colors) |
 ## Linked List
 |  |
 | ------- |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Ramsi97/Leetcode-problem/tree/master/0207-course-schedule) |
+| [1229-shortest-path-with-alternating-colors](https://github.com/Ramsi97/Leetcode-problem/tree/master/1229-shortest-path-with-alternating-colors) |
 ## Topological Sort
 |  |
 | ------- |
