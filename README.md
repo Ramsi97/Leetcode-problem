@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-replace-the-substring-for-balanced-string](https://github.com/Ramsi97/Leetcode-problem/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/Ramsi97/Leetcode-problem/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1720-crawler-log-folder](https://github.com/Ramsi97/Leetcode-problem/tree/master/1720-crawler-log-folder) |
+| [1764-maximum-repeating-substring](https://github.com/Ramsi97/Leetcode-problem/tree/master/1764-maximum-repeating-substring) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ramsi97/Leetcode-problem/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/Ramsi97/Leetcode-problem/tree/master/1797-goal-parser-interpretation) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ramsi97/Leetcode-problem/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Ramsi97/Leetcode-problem/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ramsi97/Leetcode-problem/tree/master/0055-jump-game) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Ramsi97/Leetcode-problem/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1764-maximum-repeating-substring](https://github.com/Ramsi97/Leetcode-problem/tree/master/1764-maximum-repeating-substring) |
 ## Greedy
 |  |
 | ------- |
@@ -380,4 +382,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Ramsi97/Leetcode-problem/tree/master/0207-course-schedule) |
+## String Matching
+|  |
+| ------- |
+| [1764-maximum-repeating-substring](https://github.com/Ramsi97/Leetcode-problem/tree/master/1764-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
