@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ramsi97/Leetcode-problem/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ramsi97/Leetcode-problem/tree/master/0283-move-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ramsi97/Leetcode-problem/tree/master/0304-range-sum-query-2d-immutable) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Ramsi97/Leetcode-problem/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ramsi97/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ramsi97/Leetcode-problem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0475-heaters](https://github.com/Ramsi97/Leetcode-problem/tree/master/0475-heaters) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Ramsi97/Leetcode-problem/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ramsi97/Leetcode-problem/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ramsi97/Leetcode-problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Ramsi97/Leetcode-problem/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0543-diameter-of-binary-tree](https://github.com/Ramsi97/Leetcode-problem/tree/master/0543-diameter-of-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Ramsi97/Leetcode-problem/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/Ramsi97/Leetcode-problem/tree/master/0975-range-sum-of-bst) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Ramsi97/Leetcode-problem/tree/master/0100-same-tree) |
 | [0207-course-schedule](https://github.com/Ramsi97/Leetcode-problem/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Ramsi97/Leetcode-problem/tree/master/0226-invert-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Ramsi97/Leetcode-problem/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Ramsi97/Leetcode-problem/tree/master/1229-shortest-path-with-alternating-colors) |
 ## Linked List
 |  |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Ramsi97/Leetcode-problem/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ramsi97/Leetcode-problem/tree/master/0055-jump-game) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Ramsi97/Leetcode-problem/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Ramsi97/Leetcode-problem/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1764-maximum-repeating-substring](https://github.com/Ramsi97/Leetcode-problem/tree/master/1764-maximum-repeating-substring) |
 ## Greedy
@@ -321,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Ramsi97/Leetcode-problem/tree/master/0048-rotate-image) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ramsi97/Leetcode-problem/tree/master/0304-range-sum-query-2d-immutable) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Ramsi97/Leetcode-problem/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ramsi97/Leetcode-problem/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Ramsi97/Leetcode-problem/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Bit Manipulation
@@ -377,13 +382,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Ramsi97/Leetcode-problem/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Ramsi97/Leetcode-problem/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Ramsi97/Leetcode-problem/tree/master/1229-shortest-path-with-alternating-colors) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Ramsi97/Leetcode-problem/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Ramsi97/Leetcode-problem/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## String Matching
 |  |
 | ------- |
 | [1764-maximum-repeating-substring](https://github.com/Ramsi97/Leetcode-problem/tree/master/1764-maximum-repeating-substring) |
+## Memoization
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Ramsi97/Leetcode-problem/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
