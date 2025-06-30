@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/Ramsi97/Leetcode-problem/tree/master/0475-heaters) |
 | [0523-continuous-subarray-sum](https://github.com/Ramsi97/Leetcode-problem/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Ramsi97/Leetcode-problem/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/Ramsi97/Leetcode-problem/tree/master/0594-longest-harmonious-subsequence) |
 | [0883-car-fleet](https://github.com/Ramsi97/Leetcode-problem/tree/master/0883-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/Ramsi97/Leetcode-problem/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/Ramsi97/Leetcode-problem/tree/master/0940-fruit-into-baskets) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ramsi97/Leetcode-problem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/Ramsi97/Leetcode-problem/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Ramsi97/Leetcode-problem/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/Ramsi97/Leetcode-problem/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/Ramsi97/Leetcode-problem/tree/master/0768-partition-labels) |
 | [0940-fruit-into-baskets](https://github.com/Ramsi97/Leetcode-problem/tree/master/0940-fruit-into-baskets) |
 | [1044-find-common-characters](https://github.com/Ramsi97/Leetcode-problem/tree/master/1044-find-common-characters) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Ramsi97/Leetcode-problem/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ramsi97/Leetcode-problem/tree/master/0209-minimum-size-subarray-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/Ramsi97/Leetcode-problem/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/Ramsi97/Leetcode-problem/tree/master/0940-fruit-into-baskets) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/Ramsi97/Leetcode-problem/tree/master/1351-replace-the-substring-for-balanced-string) |
 ## String
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ramsi97/Leetcode-problem/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ramsi97/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0475-heaters](https://github.com/Ramsi97/Leetcode-problem/tree/master/0475-heaters) |
+| [0594-longest-harmonious-subsequence](https://github.com/Ramsi97/Leetcode-problem/tree/master/0594-longest-harmonious-subsequence) |
 | [0883-car-fleet](https://github.com/Ramsi97/Leetcode-problem/tree/master/0883-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/Ramsi97/Leetcode-problem/tree/master/0917-boats-to-save-people) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Ramsi97/Leetcode-problem/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -339,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Ramsi97/Leetcode-problem/tree/master/0594-longest-harmonious-subsequence) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Ramsi97/Leetcode-problem/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Ramsi97/Leetcode-problem/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ramsi97/Leetcode-problem/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
