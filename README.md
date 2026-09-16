@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Ramsi97/Leetcode-problem/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Ramsi97/Leetcode-problem/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Ramsi97/Leetcode-problem/tree/master/0560-subarray-sum-equals-k) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ramsi97/Leetcode-problem/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2102-find-the-middle-index-in-array](https://github.com/Ramsi97/Leetcode-problem/tree/master/2102-find-the-middle-index-in-array) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Ramsi97/Leetcode-problem/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Binary Search
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Ramsi97/Leetcode-problem/tree/master/0055-jump-game) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ramsi97/Leetcode-problem/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Ramsi97/Leetcode-problem/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ramsi97/Leetcode-problem/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1764-maximum-repeating-substring](https://github.com/Ramsi97/Leetcode-problem/tree/master/1764-maximum-repeating-substring) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ramsi97/Leetcode-problem/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Ramsi97/Leetcode-problem/tree/master/0836-rectangle-overlap) |
 | [1018-largest-perimeter-triangle](https://github.com/Ramsi97/Leetcode-problem/tree/master/1018-largest-perimeter-triangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ramsi97/Leetcode-problem/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ramsi97/Leetcode-problem/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Ramsi97/Leetcode-problem/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Ramsi97/Leetcode-problem/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2645-pass-the-pillow](https://github.com/Ramsi97/Leetcode-problem/tree/master/2645-pass-the-pillow) |
@@ -413,4 +416,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Ramsi97/Leetcode-problem/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ramsi97/Leetcode-problem/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
