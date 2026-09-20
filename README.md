@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2365-percentage-of-letter-in-string](https://github.com/Ramsi97/Leetcode-problem/tree/master/2365-percentage-of-letter-in-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ramsi97/Leetcode-problem/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2502-sort-the-people](https://github.com/Ramsi97/Leetcode-problem/tree/master/2502-sort-the-people) |
+| [3498-reverse-degree-of-a-string](https://github.com/Ramsi97/Leetcode-problem/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Ramsi97/Leetcode-problem/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2645-pass-the-pillow](https://github.com/Ramsi97/Leetcode-problem/tree/master/2645-pass-the-pillow) |
 | [3226-minimum-number-game](https://github.com/Ramsi97/Leetcode-problem/tree/master/3226-minimum-number-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/Ramsi97/Leetcode-problem/tree/master/3498-reverse-degree-of-a-string) |
 | [3651-transformed-array](https://github.com/Ramsi97/Leetcode-problem/tree/master/3651-transformed-array) |
 ## Matrix
 |  |
