@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ramsi97/Leetcode-problem/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1720-crawler-log-folder](https://github.com/Ramsi97/Leetcode-problem/tree/master/1720-crawler-log-folder) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ramsi97/Leetcode-problem/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ramsi97/Leetcode-problem/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2102-find-the-middle-index-in-array](https://github.com/Ramsi97/Leetcode-problem/tree/master/2102-find-the-middle-index-in-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ramsi97/Leetcode-problem/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ramsi97/Leetcode-problem/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ramsi97/Leetcode-problem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ramsi97/Leetcode-problem/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ramsi97/Leetcode-problem/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ramsi97/Leetcode-problem/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ramsi97/Leetcode-problem/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Ramsi97/Leetcode-problem/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ramsi97/Leetcode-problem/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1764-maximum-repeating-substring](https://github.com/Ramsi97/Leetcode-problem/tree/master/1764-maximum-repeating-substring) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ramsi97/Leetcode-problem/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/Ramsi97/Leetcode-problem/tree/master/1797-goal-parser-interpretation) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ramsi97/Leetcode-problem/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ramsi97/Leetcode-problem/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1970-sorting-the-sentence](https://github.com/Ramsi97/Leetcode-problem/tree/master/1970-sorting-the-sentence) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ramsi97/Leetcode-problem/tree/master/2021-remove-all-occurrences-of-a-substring) |
