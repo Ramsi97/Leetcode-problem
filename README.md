@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-replace-the-substring-for-balanced-string](https://github.com/Ramsi97/Leetcode-problem/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ramsi97/Leetcode-problem/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/Ramsi97/Leetcode-problem/tree/master/1561-rearrange-words-in-a-sentence) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ramsi97/Leetcode-problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Ramsi97/Leetcode-problem/tree/master/1720-crawler-log-folder) |
 | [1764-maximum-repeating-substring](https://github.com/Ramsi97/Leetcode-problem/tree/master/1764-maximum-repeating-substring) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ramsi97/Leetcode-problem/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/Ramsi97/Leetcode-problem/tree/master/1096-brace-expansion-ii) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Ramsi97/Leetcode-problem/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ramsi97/Leetcode-problem/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ramsi97/Leetcode-problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Ramsi97/Leetcode-problem/tree/master/1720-crawler-log-folder) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ramsi97/Leetcode-problem/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Ramsi97/Leetcode-problem/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -462,4 +464,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ramsi97/Leetcode-problem/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ramsi97/Leetcode-problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
