@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Ramsi97/Leetcode-problem/tree/master/0076-minimum-window-substring) |
 | [0168-excel-sheet-column-title](https://github.com/Ramsi97/Leetcode-problem/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Ramsi97/Leetcode-problem/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Ramsi97/Leetcode-problem/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ramsi97/Leetcode-problem/tree/master/0345-reverse-vowels-of-a-string) |
 | [0657-robot-return-to-origin](https://github.com/Ramsi97/Leetcode-problem/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/Ramsi97/Leetcode-problem/tree/master/0678-valid-parenthesis-string) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Ramsi97/Leetcode-problem/tree/master/0100-same-tree) |
 | [0207-course-schedule](https://github.com/Ramsi97/Leetcode-problem/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Ramsi97/Leetcode-problem/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Ramsi97/Leetcode-problem/tree/master/0301-remove-invalid-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ramsi97/Leetcode-problem/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1096-brace-expansion-ii](https://github.com/Ramsi97/Leetcode-problem/tree/master/1096-brace-expansion-ii) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Ramsi97/Leetcode-problem/tree/master/1229-shortest-path-with-alternating-colors) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ramsi97/Leetcode-problem/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Ramsi97/Leetcode-problem/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Ramsi97/Leetcode-problem/tree/master/1096-brace-expansion-ii) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Ramsi97/Leetcode-problem/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Merge Sort
