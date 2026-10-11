@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Ramsi97/Leetcode-problem/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2756-buy-two-chocolates](https://github.com/Ramsi97/Leetcode-problem/tree/master/2756-buy-two-chocolates) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Ramsi97/Leetcode-problem/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Ramsi97/Leetcode-problem/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Ramsi97/Leetcode-problem/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Ramsi97/Leetcode-problem/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3226-minimum-number-game](https://github.com/Ramsi97/Leetcode-problem/tree/master/3226-minimum-number-game) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Ramsi97/Leetcode-problem/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Ramsi97/Leetcode-problem/tree/master/3799-unique-3-digit-even-numbers) |
 ## Backtracking
 |  |
