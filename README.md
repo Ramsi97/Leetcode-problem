@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-find-x-value-of-array-ii](https://github.com/Ramsi97/Leetcode-problem/tree/master/3525-find-x-value-of-array-ii) |
 | [3651-transformed-array](https://github.com/Ramsi97/Leetcode-problem/tree/master/3651-transformed-array) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Ramsi97/Leetcode-problem/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Ramsi97/Leetcode-problem/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Ramsi97/Leetcode-problem/tree/master/3799-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2756-buy-two-chocolates](https://github.com/Ramsi97/Leetcode-problem/tree/master/2756-buy-two-chocolates) |
 | [3226-minimum-number-game](https://github.com/Ramsi97/Leetcode-problem/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/Ramsi97/Leetcode-problem/tree/master/3321-type-of-triangle) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Ramsi97/Leetcode-problem/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2756-buy-two-chocolates](https://github.com/Ramsi97/Leetcode-problem/tree/master/2756-buy-two-chocolates) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Ramsi97/Leetcode-problem/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ramsi97/Leetcode-problem/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Ramsi97/Leetcode-problem/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
 | ------- |
