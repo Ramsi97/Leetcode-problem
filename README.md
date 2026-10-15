@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ramsi97/Leetcode-problem/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Ramsi97/Leetcode-problem/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ramsi97/Leetcode-problem/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ramsi97/Leetcode-problem/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Ramsi97/Leetcode-problem/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3226-minimum-number-game](https://github.com/Ramsi97/Leetcode-problem/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/Ramsi97/Leetcode-problem/tree/master/3321-type-of-triangle) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Ramsi97/Leetcode-problem/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2778-frequency-tracker](https://github.com/Ramsi97/Leetcode-problem/tree/master/2778-frequency-tracker) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ramsi97/Leetcode-problem/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ramsi97/Leetcode-problem/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Ramsi97/Leetcode-problem/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Ramsi97/Leetcode-problem/tree/master/3799-unique-3-digit-even-numbers) |
 ## Prefix Sum
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ramsi97/Leetcode-problem/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Ramsi97/Leetcode-problem/tree/master/3525-find-x-value-of-array-ii) |
 ## Bracket Sequences
 |  |
@@ -511,4 +514,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ramsi97/Leetcode-problem/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ramsi97/Leetcode-problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ramsi97/Leetcode-problem/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ramsi97/Leetcode-problem/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
