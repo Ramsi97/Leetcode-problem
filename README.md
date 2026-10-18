@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Ramsi97/Leetcode-problem/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Ramsi97/Leetcode-problem/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ramsi97/Leetcode-problem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ramsi97/Leetcode-problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ramsi97/Leetcode-problem/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1720-crawler-log-folder](https://github.com/Ramsi97/Leetcode-problem/tree/master/1720-crawler-log-folder) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ramsi97/Leetcode-problem/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Ramsi97/Leetcode-problem/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Ramsi97/Leetcode-problem/tree/master/0975-range-sum-of-bst) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Ramsi97/Leetcode-problem/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ramsi97/Leetcode-problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Ramsi97/Leetcode-problem/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Ramsi97/Leetcode-problem/tree/master/0975-range-sum-of-bst) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Ramsi97/Leetcode-problem/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ramsi97/Leetcode-problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Ramsi97/Leetcode-problem/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Ramsi97/Leetcode-problem/tree/master/0975-range-sum-of-bst) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Ramsi97/Leetcode-problem/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ramsi97/Leetcode-problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -322,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Ramsi97/Leetcode-problem/tree/master/0678-valid-parenthesis-string) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Ramsi97/Leetcode-problem/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ramsi97/Leetcode-problem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ramsi97/Leetcode-problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ramsi97/Leetcode-problem/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1764-maximum-repeating-substring](https://github.com/Ramsi97/Leetcode-problem/tree/master/1764-maximum-repeating-substring) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ramsi97/Leetcode-problem/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -379,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Ramsi97/Leetcode-problem/tree/master/1018-largest-perimeter-triangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ramsi97/Leetcode-problem/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Ramsi97/Leetcode-problem/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ramsi97/Leetcode-problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ramsi97/Leetcode-problem/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Ramsi97/Leetcode-problem/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Ramsi97/Leetcode-problem/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -456,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ramsi97/Leetcode-problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Ramsi97/Leetcode-problem/tree/master/0148-sort-list) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ramsi97/Leetcode-problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Enumeration
 |  |
 | ------- |
@@ -491,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ramsi97/Leetcode-problem/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ramsi97/Leetcode-problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Geometry
 |  |
 | ------- |
@@ -499,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ramsi97/Leetcode-problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ramsi97/Leetcode-problem/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Segment Tree
 |  |
@@ -525,4 +534,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ramsi97/Leetcode-problem/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Ramsi97/Leetcode-problem/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ramsi97/Leetcode-problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ramsi97/Leetcode-problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
