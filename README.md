@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ramsi97/Leetcode-problem/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2502-sort-the-people](https://github.com/Ramsi97/Leetcode-problem/tree/master/2502-sort-the-people) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ramsi97/Leetcode-problem/tree/master/3498-reverse-degree-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Ramsi97/Leetcode-problem/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
 | ------- |
