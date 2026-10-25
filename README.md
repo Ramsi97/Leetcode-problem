@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/Ramsi97/Leetcode-problem/tree/master/1044-find-common-characters) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ramsi97/Leetcode-problem/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Ramsi97/Leetcode-problem/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1254-number-of-closed-islands](https://github.com/Ramsi97/Leetcode-problem/tree/master/1254-number-of-closed-islands) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Ramsi97/Leetcode-problem/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ramsi97/Leetcode-problem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ramsi97/Leetcode-problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Ramsi97/Leetcode-problem/tree/master/0543-diameter-of-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Ramsi97/Leetcode-problem/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/Ramsi97/Leetcode-problem/tree/master/0975-range-sum-of-bst) |
+| [1254-number-of-closed-islands](https://github.com/Ramsi97/Leetcode-problem/tree/master/1254-number-of-closed-islands) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Ramsi97/Leetcode-problem/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ramsi97/Leetcode-problem/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1096-brace-expansion-ii](https://github.com/Ramsi97/Leetcode-problem/tree/master/1096-brace-expansion-ii) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Ramsi97/Leetcode-problem/tree/master/1229-shortest-path-with-alternating-colors) |
+| [1254-number-of-closed-islands](https://github.com/Ramsi97/Leetcode-problem/tree/master/1254-number-of-closed-islands) |
 ## Linked List
 |  |
 | ------- |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Ramsi97/Leetcode-problem/tree/master/0048-rotate-image) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ramsi97/Leetcode-problem/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ramsi97/Leetcode-problem/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1254-number-of-closed-islands](https://github.com/Ramsi97/Leetcode-problem/tree/master/1254-number-of-closed-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ramsi97/Leetcode-problem/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ramsi97/Leetcode-problem/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Ramsi97/Leetcode-problem/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -545,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Ramsi97/Leetcode-problem/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ramsi97/Leetcode-problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
