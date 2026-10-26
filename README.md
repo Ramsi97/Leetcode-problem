@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/Ramsi97/Leetcode-problem/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Ramsi97/Leetcode-problem/tree/master/3525-find-x-value-of-array-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Ramsi97/Leetcode-problem/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ramsi97/Leetcode-problem/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Ramsi97/Leetcode-problem/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3651-transformed-array](https://github.com/Ramsi97/Leetcode-problem/tree/master/3651-transformed-array) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Ramsi97/Leetcode-problem/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/Ramsi97/Leetcode-problem/tree/master/0975-range-sum-of-bst) |
 | [1254-number-of-closed-islands](https://github.com/Ramsi97/Leetcode-problem/tree/master/1254-number-of-closed-islands) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Ramsi97/Leetcode-problem/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ramsi97/Leetcode-problem/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/Ramsi97/Leetcode-problem/tree/master/1096-brace-expansion-ii) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Ramsi97/Leetcode-problem/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1254-number-of-closed-islands](https://github.com/Ramsi97/Leetcode-problem/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ramsi97/Leetcode-problem/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Linked List
 |  |
 | ------- |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ramsi97/Leetcode-problem/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ramsi97/Leetcode-problem/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Ramsi97/Leetcode-problem/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ramsi97/Leetcode-problem/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -551,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Ramsi97/Leetcode-problem/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ramsi97/Leetcode-problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ramsi97/Leetcode-problem/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Fermat's Little Theorem
 |  |
 | ------- |
