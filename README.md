@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ramsi97/Leetcode-problem/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ramsi97/Leetcode-problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ramsi97/Leetcode-problem/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Ramsi97/Leetcode-problem/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0475-heaters](https://github.com/Ramsi97/Leetcode-problem/tree/master/0475-heaters) |
 | [0523-continuous-subarray-sum](https://github.com/Ramsi97/Leetcode-problem/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Ramsi97/Leetcode-problem/tree/master/0560-subarray-sum-equals-k) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Ramsi97/Leetcode-problem/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Ramsi97/Leetcode-problem/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Ramsi97/Leetcode-problem/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Ramsi97/Leetcode-problem/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0523-continuous-subarray-sum](https://github.com/Ramsi97/Leetcode-problem/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/Ramsi97/Leetcode-problem/tree/master/0836-rectangle-overlap) |
 | [1018-largest-perimeter-triangle](https://github.com/Ramsi97/Leetcode-problem/tree/master/1018-largest-perimeter-triangle) |
