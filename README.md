@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ramsi97/Leetcode-problem/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ramsi97/Leetcode-problem/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Ramsi97/Leetcode-problem/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ramsi97/Leetcode-problem/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Ramsi97/Leetcode-problem/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3226-minimum-number-game](https://github.com/Ramsi97/Leetcode-problem/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/Ramsi97/Leetcode-problem/tree/master/3321-type-of-triangle) |
