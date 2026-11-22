@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ramsi97/Leetcode-problem/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1970-sorting-the-sentence](https://github.com/Ramsi97/Leetcode-problem/tree/master/1970-sorting-the-sentence) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ramsi97/Leetcode-problem/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Ramsi97/Leetcode-problem/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ramsi97/Leetcode-problem/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Ramsi97/Leetcode-problem/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/Ramsi97/Leetcode-problem/tree/master/2365-percentage-of-letter-in-string) |
