@@ -456,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Ramsi97/Leetcode-problem/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Ramsi97/Leetcode-problem/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3321-type-of-triangle](https://github.com/Ramsi97/Leetcode-problem/tree/master/3321-type-of-triangle) |
+| [3360-stone-removal-game](https://github.com/Ramsi97/Leetcode-problem/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Ramsi97/Leetcode-problem/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ramsi97/Leetcode-problem/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Ramsi97/Leetcode-problem/tree/master/3524-find-x-value-of-array-i) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Ramsi97/Leetcode-problem/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2645-pass-the-pillow](https://github.com/Ramsi97/Leetcode-problem/tree/master/2645-pass-the-pillow) |
 | [3226-minimum-number-game](https://github.com/Ramsi97/Leetcode-problem/tree/master/3226-minimum-number-game) |
+| [3360-stone-removal-game](https://github.com/Ramsi97/Leetcode-problem/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ramsi97/Leetcode-problem/tree/master/3498-reverse-degree-of-a-string) |
 | [3651-transformed-array](https://github.com/Ramsi97/Leetcode-problem/tree/master/3651-transformed-array) |
 ## Matrix
